@@ -1,7 +1,12 @@
-### Oi! Eu sou a Denise Mignoli =D 
+## Oi! Eu sou a Denise Mignoli =D 
 
-![Denise Mignoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=darcula)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact)](https://github.com/denisemignoli/github-readme-stats)
+![Denise Mignoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=monokai)
+<!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact)](https://github.com/denisemignoli/github-readme-stats)-->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Denise%20Mignoli-3366cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisemignoli/)](https://www.linkedin.com/in/denisemignoli/) 
+
+
+<!--![Snake animation](https://github.com/rafaballerini/denisemignoli/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **denisemignoli/denisemignoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
