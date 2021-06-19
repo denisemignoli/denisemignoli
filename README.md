@@ -1,7 +1,7 @@
-### Oi! Eu sou a Denise Mignoli ^^ 
+### Oi! Eu sou a Denise Mignoli =D 
 
-![Denise Mignoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=dracula)
-
+![Denise Mignoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=darcula)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact)](https://github.com/denisemignoli/github-readme-stats)
 
 <!--
 **denisemignoli/denisemignoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
