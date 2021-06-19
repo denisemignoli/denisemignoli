@@ -1,9 +1,12 @@
 ## Oi! Eu sou a Denise Mignoli =D 
 
 ![Denise Mignoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=monokai)
+
 <!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact)](https://github.com/denisemignoli/github-readme-stats)-->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Denise%20Mignoli-3366cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisemignoli/)](https://www.linkedin.com/in/denisemignoli/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/denisemignoli/)](https://www.linkedin.com/in/denisemignoli/) 
+
+<img align="right" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358">
 
 
 <!--![Snake animation](https://github.com/rafaballerini/denisemignoli/blob/output/github-contribution-grid-snake.svg)
