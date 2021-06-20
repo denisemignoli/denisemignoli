@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Denise Mignoli =D 
 
-![Denise Mignoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=monokai)
+![Denise Mignoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage)
 
 <!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact)](https://github.com/denisemignoli/github-readme-stats)-->
 
