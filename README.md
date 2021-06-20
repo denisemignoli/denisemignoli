@@ -2,11 +2,13 @@
 
 ![Denise Mignoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage)
 
-<!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact)](https://github.com/denisemignoli/github-readme-stats)-->
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage)](https://github.com/denisemignoli/github-readme-stats)-->
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=ayu-mirage"-->
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:denisemignoli@gmail.com)](mailto:denisemignoli@gmail.com) 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/denisemignoli/)](https://www.linkedin.com/in/denisemignoli/) 
-
-<img align="right" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358">
 
 
 <!--![Snake animation](https://github.com/rafaballerini/denisemignoli/blob/output/github-contribution-grid-snake.svg)
