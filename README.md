@@ -2,13 +2,22 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage"/>-->
+  <!--img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage"-->
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
-  <img align="right" alt="Hello" height="120" width="120" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358.gif">
+  <img align="center" alt="logo-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="logo-Mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="logo-Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="logo-Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <!--img align="center" alt="logo-Figma" height="30" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"-->
+  <img align="center" alt="logo-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="logo-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="logo-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--img align="center" alt="logo-Angular" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.svg"-->
+  <!--img align="center" alt="logo-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"-->
+  <!--img align="center" alt="logo-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"-->
+  <img align="right" alt="gif-Hello" height="120" width="120" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358.gif">
 </div>
 
   ##
@@ -20,16 +29,3 @@
   ![Snake animation](https://github.com/denisemignoli/denisemignoli/blob/output/github-contribution-grid-snake.svg)  
 
 <div>
-
-  
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
