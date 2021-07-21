@@ -1,8 +1,8 @@
 ## Oi! Eu sou a Denise Mignoli =D 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage"/>
-  <!--img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage"-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage">
 </div>
 
 <div style="display: inline_block"><br>
