@@ -1,7 +1,5 @@
 <h2> Hey, I'm Denise Mignoli! =D </h2>
 
-<p><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=denisemignoli.denisemignoli" alt="visitors"></p>
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage">
