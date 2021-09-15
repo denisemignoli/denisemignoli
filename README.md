@@ -6,7 +6,7 @@
   <br>
   <ul>
    <li> 🌱 I'm transitioning my career to becoming a full-stack web developer</li>
-   <li> 📒 I studied Java Jr Web Development at Generation Brasil</li>
+   <li> 📒 I studied Junior Java Web Development at <a href="https://brazil.generation.org/" target="_blank"> Generation Brasil</a></li>
    <li> 🚀 Open to new job opportunities</li>
   </ul>
 </div>
