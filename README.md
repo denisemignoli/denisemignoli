@@ -13,8 +13,8 @@
 
 
 <div>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage">
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage">
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage">
 </div>
 
 <div style="display: inline_block"><br>
