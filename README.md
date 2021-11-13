@@ -5,9 +5,9 @@
   <p align="center"><strong>"Try to move the world - the first step is to move yourself."</strong> Plato</p>
   <br>
   <ul>
-   <li> 🌱 I'm transitioning my career to becoming a full-stack web developer</li>
-   <li> 📒 I studied Junior Java Web Development at <a href="https://brazil.generation.org/" target="_blank"> Generation Brasil</a></li>
-   <li> 🚀 Open to new job opportunities</li>
+   <li> 🌱 I've a degree in Architecture and Urbanism and I'm recently transitioning my career. I'm currently a Junior Development Analyst.</li>
+   <li> 📒 I studied Java Web Development at <a href="https://brazil.generation.org/" target="_blank"> Generation Brasil</a></li>
+   <!--🚀 Keep going-->
   </ul>
 </div>
 
@@ -23,7 +23,7 @@
   <img align="center" alt="logo-Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">&nbsp
    <img align="center" alt="logo-Heroku" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">&nbsp
   <img align="center" alt="logo-Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp
-  <!--img align="center" alt="logo-Figma" height="30" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"-->
+  <img align="center" alt="logo-Figma" height="30" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
   <img align="center" alt="logo-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp
   <img align="center" alt="logo-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp
   <img align="center" alt="logo-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
