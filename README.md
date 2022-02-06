@@ -32,15 +32,14 @@
   <img align="center" alt="logo-Angular" height="35" width="35" src="https://angular.io/assets/images/logos/angular/angular.svg">&nbsp
   <img align="center" alt="logo-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp
   <!--img align="center" alt="logo-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"-->
-  <img align="right" alt="gif-Hello" height="120" width="120" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358.gif">
+  <!--<img align="right" alt="gif-Hello" height="120" width="120" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358.gif">-->
 </div>
 
-  ##
-
+<!--
+ ##
 <div>
   <a href = "mailto:denisemignoli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/denisemignoli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <!--![Snake animation](https://github.com/denisemignoli/denisemignoli/blob/output/github-contribution-grid-snake.svg)-->
-
+  ![Snake animation](https://github.com/denisemignoli/denisemignoli/blob/output/github-contribution-grid-snake.svg)
 <div>
+-->
