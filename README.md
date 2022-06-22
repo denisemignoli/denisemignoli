@@ -1,22 +1,19 @@
-<h2> Hey, I'm Denise Mignoli! </h2>
-
 <div>
   <br>
-  <p align="center"><strong>"Try to move the world - the first step is to move yourself."</strong> Plato</p>
+  <p align="center">"Try to move the world - the first step is to move yourself." - Plato</p>
   <br>
-  <ul>
+<!--   <ul>
    <li> I recently made a career transition, today I work as a Software Developer Jr.</li>
    <li> I studied Java Web Development at <a href="https://brazil.generation.org/" target="_blank"> Generation Brasil</a></li>
     <li>Currently learning Golang</li>
-   <!--🚀 Keep going-->
-  </ul>
+  </ul> -->
 </div>
 
-
+<!-- 
 <div>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=denisemignoli&show_icons=true&theme=ayu-mirage">
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemignoli&layout=compact&langs_count=16&theme=ayu-mirage">
-</div>
+</div> -->
 
 <!--
 <div style="display: inline_block"><br>
