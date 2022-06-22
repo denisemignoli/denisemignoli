@@ -1,4 +1,4 @@
-<h2> Hey, I'm Denise Mignoli! =D </h2>
+<h2> Hey, I'm Denise Mignoli! </h2>
 
 <div>
   <br>
